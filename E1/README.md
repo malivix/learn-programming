@@ -178,8 +178,9 @@ for operators with same precedence, it's evaluated from left to right.
 3 - *, /, //, %
 4 - +, -
 5 - not
-6 - and, or
-7 - <, <=, >, >=, ==, !=
+6 - and
+7 - or
+8 - <, <=, >, >=, ==, !=
 
 ### Examples
 - 2 + 3 * 4 -> 14
