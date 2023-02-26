@@ -9,3 +9,5 @@
 # if the number is -2 print "negative even"
 # if the number is 0 print "zero"
 #
+
+a = int(input("Enter a number: "))
